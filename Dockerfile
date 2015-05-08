@@ -1,4 +1,4 @@
-FROM gliderlabs/alpine
+FROM gliderlabs/alpine:edge
 
 MAINTAINER Steven Borrelli <steve@aster.is>
 
